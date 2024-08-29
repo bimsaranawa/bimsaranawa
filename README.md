@@ -13,8 +13,8 @@
 
 ## Skills
 
-- **Programming Languages:** C, C++, C#, Python, Java, JavaScript
-- **Machine Learning Tools:** TensorFlow, OpenCV
+- **Programming Languages:** C, C++, C#, Python, Java, JavaScript, Kotlin
+- **Machine Learning Tools:** TensorFlow, OpenCV, Firebase
 - **Embedded Systems Development Platforms:** ESP32, Arduino, Raspberry Pi
 - **Electronic Design Automation Tools:** Altium, Verilog
 - **Software Development Frameworks:** Node.js, React.js, Node-Red
