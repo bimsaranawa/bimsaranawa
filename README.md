@@ -4,7 +4,7 @@
 
 🧑 Electronic and Telecommunications Engineering Undergraduate from University of Moratuwa, Sri Lanka.
 
-💻 Machine Learning and Digital Systems Design Enthusiast.
+💻 AI/Machine Learning, IoT and Embedded Systems Enthusiast.
 
 ## Connect With Me
 
@@ -17,7 +17,7 @@
 - **Machine Learning Tools:** TensorFlow, OpenCV, Firebase
 - **Embedded Systems Development Platforms:** ESP32, Arduino, Raspberry Pi
 - **Electronic Design Automation Tools:** Altium, Verilog
-- **Software Development Frameworks:** Node.js, React.js, Node-Red
+- **Software Development Frameworks:** Node.js, React.js, React Native, Node-Red
 - **Computer Aided Design Software:** SolidWorks
 
 ## Projects
