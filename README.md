@@ -4,7 +4,7 @@
 
 🧑 Electronic and Telecommunications Engineering Undergraduate from University of Moratuwa, Sri Lanka.
 
-💻 AI/Machine Learning, IoT and Embedded Systems Enthusiast.
+💻 Networking, Wireless Communication and Machine Learning.
 
 ## Connect With Me
 
@@ -13,12 +13,13 @@
 
 ## Skills
 
-- **Programming Languages:** C, C++, C#, Python, Java, JavaScript, Kotlin
-- **Machine Learning Tools:** TensorFlow, OpenCV, Firebase
+- **Programming Languages:** Python, JavaScript, C, C++, Java, Kotlin, Verilog
+- **Machine Learning Tools:** TensorFlow, PyTorch, Hugging Face, Firebase
+- **Simulation Tools:** Matlab, Wireshark, Intel Quartus
 - **Embedded Systems Development Platforms:** ESP32, Arduino, Raspberry Pi
-- **Electronic Design Automation Tools:** Altium, Verilog
-- **Software Development Frameworks:** Node.js, React.js, React Native, Node-Red
-- **Computer Aided Design Software:** SolidWorks
+- **Software Development Frameworks:** Node.js, React.js, React Native
+- **IOT System Development Frameworks:** ThingsBoard, Node-Red
+- **Cloud Computing Platforms:** AWS, Azure
 
 ## Projects
 
