@@ -4,7 +4,7 @@
 
 🧑 Electronic and Telecommunications Engineering Undergraduate from University of Moratuwa, Sri Lanka.
 
-💻 Networking, Wireless Communication and Machine Learning.
+💻 Specializing in Networking, Wireless Communication and Machine Learning.
 
 ## Connect With Me
 
